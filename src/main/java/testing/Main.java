@@ -29,6 +29,8 @@ public class Main {
 
         System.out.println(Arrays.toString(oi));
     }
+
+    //Вношу изменения для тестирования source control.
     
 
 
